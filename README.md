@@ -9,7 +9,7 @@ Developed by Chiranjeev Mishra
 
 ```python
 import handcric
-//create an object of class match and here you go
+#create an object of class match and here you go
 a = handcric.match()
 #Now you can play the game
 ```
