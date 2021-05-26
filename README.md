@@ -8,7 +8,7 @@ Developed by Chiranjeev Mishra
 ## Example of How to use it 
 
 ```bash
-pip install iplscore
+pip install handcric
 ```
 
 ## Python code 
