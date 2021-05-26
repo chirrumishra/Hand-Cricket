@@ -5,7 +5,7 @@ enjoy while doing your work
 
 Developed by Chiranjeev Mishra
 
-## Example of How to use it 
+## installing pip file
 
 ```bash
 pip install handcric
