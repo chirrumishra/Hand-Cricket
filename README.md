@@ -7,6 +7,12 @@ Developed by Chiranjeev Mishra
 
 ## Example of How to use it 
 
+```bash
+pip install iplscore
+```
+
+## Python code 
+
 ```python
 import handcric
 #create an object of class match and here you go
